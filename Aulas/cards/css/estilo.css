@@ -1,5 +1,5 @@
         .cards {
-        background-color: rgb(172, 131, 211);
+        background-color: rgb(74, 26, 120);
         width: 100%;
         height: 100vh;
         display: flex;
@@ -29,7 +29,7 @@
     .paragrafo {
         font-size: 14px;
         line-height: 16px;
-        color: gray;
+        color: rgb(94, 24, 108);
     }
     .container-estrelas {
         display:flex;
