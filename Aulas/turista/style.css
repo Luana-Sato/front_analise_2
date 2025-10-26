@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 350px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.avaliacoes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.avaliacao {
+    max-width: 400px;
+    text-align: justify;
+}
